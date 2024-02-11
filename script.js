@@ -43,11 +43,11 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "Nop",
-    "En serio que no?",
-    "Porfi Porfiii",
+    "No entristezcas mi corazón de pollito ; c",
+    "Porfi Porfiii, ahora me debes un nanopiquito",
     "Te voy a hacer berrrinche D :",
     "CUANDO ALGUIEN ME AMABA...",
-    "Ahora me debes un nanopiquito por haber llegado hasta acá",
+    "Duren 👍",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
